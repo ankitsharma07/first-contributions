@@ -42,6 +42,7 @@
 - Marta Pinol
 - Timothy Pham (https://github.com/tpham2580)
 - Akshit Goyal (https://github.com/akshitgoyal1998)
+- [Ankit Sharma](https://github.com/ankitsharma07)
 - Alberto R
 - Eric Wang
 - [Hamed jabbari] (https://github.com/hamedjbbri)
